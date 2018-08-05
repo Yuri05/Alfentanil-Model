@@ -11,4 +11,4 @@ The model is distributed under the [GPLv2 License](https://github.com/Open-Syste
 ### Reference
 [1] Hanke N, Frechen S, Moj D, Britz H, Eissing T, Wendl T, Lehr T. 
 PBPK models for CYP3A4 and P-gp DDI prediction: a modeling network of rifampicin, itraconazole, clarithromycin, midazolam, alfentanil and digoxin. 
-CPT Pharmacometrics Syst Pharmacol 2018. [accepted for publication] 
+CPT Pharmacometrics Syst Pharmacol 2018 [accepted for publication] 
