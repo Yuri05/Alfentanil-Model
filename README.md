@@ -1,14 +1,17 @@
 # Alfentanil-Model
-Whole-body PBPK model of alfentanil as CYP3A4 DDI victim drug 
+Whole-body PBPK model of alfentanil 
 
 <p align="center">
-  <img src="https://github.com/Open-Systems-Pharmacology/Digoxin-Model/blob/master/DDI-Modeling-Network.png">
+  <img src="Alfentanil.png">
 </p>
+
 
 ## Repository files
 Within this repository, we distribute a whole-body PBPK model of alfentanil, that has been carefully developed using a large number of clinical studies and evaluated within our DDI modeling network. 
 
 The PK-Sim project file contains simulations of all published clinical studies employed during model establishment, including the respective observed data digitized from literature reports. For further details, quantitative model evaluation, sensitivity analysis and extensive documentation please refer to [[1](#reference)]. 
+
+The model is also suitable for pediatric translations with regard to CYP3A4 ontogeny.
 
 ## Code of conduct
 Everyone interacting in the Open Systems Pharmacology community (codebases, issue trackers, chat rooms, mailing lists etc...) is expected to follow the Open Systems Pharmacology [code of conduct](https://github.com/Open-Systems-Pharmacology/Suite/blob/master/CODE_OF_CONDUCT.md#contributor-covenant-code-of-conduct).
