@@ -25881,21 +25881,6 @@
               }
             }
           ]
-        },
-        {
-          "Name": "Experimental logD",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Lipophilicity",
-              "Value": 2.1,
-              "Unit": "Log Units",
-              "ValueOrigin": {
-                "Source": "Publication",
-                "Description": "Hanke 2018"
-              }
-            }
-          ]
         }
       ],
       "FractionUnbound": [
@@ -25906,21 +25891,6 @@
             {
               "Name": "Fraction unbound (plasma, reference value)",
               "Value": 0.1,
-              "ValueOrigin": {
-                "Source": "Publication",
-                "Description": "Hanke 2018"
-              }
-            }
-          ]
-        },
-        {
-          "Name": "Child-Pugh B",
-          "IsDefault": false,
-          "Species": "Human",
-          "Parameters": [
-            {
-              "Name": "Fraction unbound (plasma, reference value)",
-              "Value": 0.1656,
               "ValueOrigin": {
                 "Source": "Publication",
                 "Description": "Hanke 2018"
@@ -25951,6 +25921,21 @@
             {
               "Name": "Fraction unbound (plasma, reference value)",
               "Value": 0.15625,
+              "ValueOrigin": {
+                "Source": "Publication",
+                "Description": "Hanke 2018"
+              }
+            }
+          ]
+        },
+        {
+          "Name": "Child-Pugh B",
+          "IsDefault": false,
+          "Species": "Human",
+          "Parameters": [
+            {
+              "Name": "Fraction unbound (plasma, reference value)",
+              "Value": 0.1656,
               "ValueOrigin": {
                 "Source": "Publication",
                 "Description": "Hanke 2018"
@@ -25994,22 +25979,6 @@
               "ValueOrigin": {
                 "Source": "Publication",
                 "Description": "Hanke 2018"
-              }
-            }
-          ]
-        }
-      ],
-      "Permeability": [
-        {
-          "Name": "Fit",
-          "IsDefault": false,
-          "Parameters": [
-            {
-              "Name": "Permeability",
-              "Value": 0.00031,
-              "Unit": "cm/min",
-              "ValueOrigin": {
-                "Source": "ParameterIdentification"
               }
             }
           ]
