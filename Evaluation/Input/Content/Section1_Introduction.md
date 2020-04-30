@@ -2,4 +2,4 @@ Alfentanil is a potent analgesic synthetic opioid. It is fast but short-acting a
 
 Although in clinical use alfentanil is always administered intravenously, some DDI studies published plasma concentration-time profiles of alfentanil following oral ingestion. The presented alfentanil model was established using clinical PK data of 8 publications, covering iv and oral administration and a dosing range from 0.015 to 0.075 mg/kg as well as absolute doses of 1 mg IV and 4 mg PO. The established model is based on ([Hanke 2018](# 5 References)) and applies metabolism by CYP3A4 and glomerular filtration.  
 
-The herein presented model building and evaluation report evaluates the performance of the PBPK model for Alfentanil in (healthy) adults. The established Alfentanil PBPK model as well as the respective evaluation plan and evaluation report are provided open-source (https://github.com/.../Compound-model).
+The herein presented model building and evaluation report evaluates the performance of the PBPK model for Alfentanil in (healthy) adults.
