@@ -17,7 +17,7 @@ was preferred over other parameters such as relative CYP3A4 expression or fracti
 
 ### 2.3.4	Automated Parameter Identification
 
-The parameter identification tool in PK-Sim has been used to estimate selected model parameters by adjusting to PK data of the clinical studies that were used in the model building processThis is the result of the final parameter identification.
+The parameter identification tool in PK-Sim has been used to estimate selected model parameters by adjusting to PK data of the clinical studies that were used in the model building process. This is the result of the final parameter identification.
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |

@@ -24,6 +24,8 @@
 
 **Kharasch 2012** Kharasch ED, Whittington D, Ensign D, Hoffer C, Bedynek PS, Campbell S, Stubbert K, Crafford A, London A, Kim T. Mechanism of efavirenz influence on methadone pharmacokinetics and pharmacodynamics. Clin Pharmacol Ther. 2012 Apr;91(4):673-84. doi: 10.1038/clpt.2011.276. Epub 2012 Mar 7.
 
+**Meistelman 1987** Meistelman C, Saint-Maurice C, Lepaul M, Levron JC, Loose JP, Mac Gee K. A comparison of alfentanil pharmacokinetics in children and adults. Anesthesiology. 1987 Jan;66(1):13-6. PubMed PMID: 3099603.
+
 **Jansson 2008** Jansson, R., Bredberg, U. & Ashton, M. Prediction of drug tissue to plasma concentration ratios using a measured volume of distribution in combination with lipophilicity. J. Pharm. Sci. 97, 2324–39 (2008).
 
 **Edginton 2008** Edginton, A.N. & Willmann, S. Physiology-based simulations of a pathological condition: prediction of pharmacokinetics in patients with liver cirrhosis. Clin. Pharmacokinet. 47, 743–52 (2008).
