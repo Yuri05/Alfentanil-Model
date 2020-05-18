@@ -1,12 +1,17 @@
 # Alfentanil-Model
 Whole-body PBPK model of alfentanil 
 
-**The latest release of this model including a report on model building, model features and model evaluation can be found [here](https://github.com/Open-Systems-Pharmacology/Alfentanil-Model/releases/latest).**
+<a title="Alfentanil" href="https://commons.wikimedia.org/wiki/File:Alfentanil.svg"><img width="256" alt="Alfentanil" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Alfentanil.svg/256px-Alfentanil.svg.png"></a>
 
-<p align="center">
-  <img src="Alfentanil.png">
-</p>
+This repository contains:
 
+- a PK-Sim snapshot (*.json) file of the current PBPK model
+- static content (e.g. text blocks, *.md files) as inputs for an evaluation plan
+- an evaluation plan (evaluation-plan.json) to create an evaluation report using the snapshot and static text blocks to display the performance of the model
+
+**The latest release of the snapshot of the model, the evaluation plan and the static content can be found [here](https://github.com/Open-Systems-Pharmacology/Alfentanil-Model/releases/latest).**
+
+**The latest release of the PK-Sim project model file and the respective evaluation report can be found [here](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
 
 This alfentanil model is intended to be used as victim drug in CYP3A4-mediated drug-drug interactions (DDI) as well as for pediatric translations with regard to CYP3A4 ontogeny. 
 
