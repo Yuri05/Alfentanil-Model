@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Alfentanil",
-            "Path": "../../Alfentanil.json",
+            "Path": "../../Alfentanil-Model.json",
             "BuildingBlocks": [],
             "SimulationParameters": []
         }
