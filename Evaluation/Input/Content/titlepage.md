@@ -1,12 +1,17 @@
-# Building and evaluation of a PBPK Model for alfentanil in adults
+# Building and Evaluation of a PBPK Model for Alfentanil in Adults
 
 
 
-| Version                                         | TODO                                                         |
+| Version                                         | x.x-OSPy.y                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| Model file and Evaluation Report                | TODO                                                         |
-| based on *Model Snapshot* and *Evaluation Plan* | 1.0<br />(https://github.com/Open-Systems-Pharmacology/Alfentanil-Model/releases/tag/v1.0) |
-| OSP Version                                     | 9.0                                                          |
-| Qualification Framework Version                 | 2.1                                                          |
-| Author                                          | Thomas Wendl ([Twendl](https://github.com/TWendl))           |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Alfentanil-Model/releases/tag/vx.x |
+| OSP Version                                     | y.y                                                          |
+| Qualification Framework Version                 | z.z                                                          |
 
+
+
+
+
+This evaluation report and the corresponding PK-Sim project file are filed at:
+
+https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/
