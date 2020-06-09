@@ -28,7 +28,7 @@ The following studies were used for model building:
 | [Kharasch 1997](#5-References)   | Healthy subjects with a single iv dose of 0.02 mg/kg         |
 | [Kharasch 2004](#5-References)   | Healthy subjects with a single iv dose of 0.015 mg/kg, healthy subjects with a single oral dose of 0.06 mg/kg |
 | [Kharasch 2011](#5-References)   | Healthy subjects with a single iv dose of 0.015 mg/kg, healthy subjects with a single oral dose of 0.075 mg/kg |
-| [Kharasch 2011b](#5-References)  | Healthy subjects with an iv dose of 1 mg, healthy subjects with an oral dose of 1 mg. Publication compares sequential and simultaneous dosing of oral deuterated and intravenous unlabeled alfentanil |
-| [Kharasch 2012](#5-References)   | Healthy subjects with a single iv dose of 0.02 mg/kg         |
+| [Kharasch 2011b](#5-References)  | Healthy subjects with an iv dose of 1 mg, healthy subjects with an oral dose of 1 mg. Publication compares sequential and simultaneous dosing of oral deuterated and intravenous unlabeled alfentanil. Furthermore, IV and oral administration of alfentanil is combined with grapefruit juice. Grapefruit juice is considered to have no effect on hepatic clearance, and, hence, no effect on IV administered alfentanil |
+| [Kharasch 2012](#5-References)   | Healthy subjects with a single iv dose of 0.02 mg/kg, healthy subjects with a single oral dose of 0.043 mg/kg |
 | [Meistelman 1987](#5-References) | Healthy subjects with a single iv dose of 0.02 mg/kg         |
 | [Phimmasone 2001](#5-References) | Healthy subjects with a single iv dose of 0.015 mg/kg        |
