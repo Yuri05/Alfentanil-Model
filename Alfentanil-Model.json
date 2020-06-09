@@ -1528,7 +1528,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Ferrier 1985, Alfentanil iv 0.05 mg/kg - log",
           "OriginText": "Alfentanil\nFerrier 1985, Alfentanil iv 0.05 mg/kg\n2019-11-29 13:35"
         },
         {
@@ -1578,7 +1578,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Ferrier 1985, Alfentanil iv 0.05 mg/kg - linear",
           "OriginText": "Alfentanil\nFerrier 1985, Alfentanil iv 0.05 mg/kg\n2019-11-29 13:35"
         }
       ]
@@ -1701,7 +1701,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 1997, Alfentanil iv 0.02 mg/kg - log",
           "OriginText": "Alfentanil\nKharasch 1997, Alfentanil iv 0.02 mg/kg\n2019-11-29 13:35"
         },
         {
@@ -1751,7 +1751,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 1997, Alfentanil iv 0.02 mg/kg - lin",
           "OriginText": "Alfentanil\nKharasch 1997, Alfentanil iv 0.02 mg/kg\n2019-11-29 13:35"
         }
       ]
@@ -1874,7 +1874,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 2004, Alfentanil iv 0.015 mg/kg - log",
           "OriginText": "Alfentanil\nKharasch 2004, Alfentanil iv 0.015 mg/kg\n2019-11-29 13:34"
         },
         {
@@ -1924,7 +1924,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 2004, Alfentanil iv 0.015 mg/kg - lin",
           "OriginText": "Alfentanil\nKharasch 2004, Alfentanil iv 0.015 mg/kg\n2019-11-29 13:34"
         }
       ]
@@ -2280,7 +2280,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 2004, Alfentanil po 0.06 mg/kg - log",
           "OriginText": "Alfentanil\nKharasch 2004, Alfentanil po 0.06 mg/kg\n2019-11-29 13:34"
         },
         {
@@ -2330,7 +2330,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 2004, Alfentanil po 0.06 mg/kg - lin",
           "OriginText": "Alfentanil\nKharasch 2004, Alfentanil po 0.06 mg/kg\n2019-11-29 13:34"
         }
       ]
@@ -2453,7 +2453,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 2011, Alfentanil iv 0.015 mg/kg - log",
           "OriginText": "Alfentanil\nKharasch 2011, Alfentanil iv 0.015 mg/kg\n2019-11-29 13:34"
         },
         {
@@ -2503,7 +2503,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 2011, Alfentanil iv 0.015 mg/kg - lin",
           "OriginText": "Alfentanil\nKharasch 2011, Alfentanil iv 0.015 mg/kg\n2019-11-29 13:34"
         }
       ]
@@ -2859,7 +2859,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 2011, Alfentanil po 0.075 mg/kg - log",
           "OriginText": "Alfentanil\nKharasch 2011, Alfentanil po 0.075 mg/kg\n2019-11-29 13:34"
         },
         {
@@ -2909,7 +2909,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 2011, Alfentanil po 0.075 mg/kg - lin",
           "OriginText": "Alfentanil\nKharasch 2011, Alfentanil po 0.075 mg/kg\n2019-11-29 13:34"
         }
       ]
@@ -3032,7 +3032,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Meistelman 1987, 20µg/kg, adult male individual - log",
           "OriginText": "Alfentanil\nMeistelman 1987, 20µg/kg, adult male individual\n2019-11-29 13:32"
         },
         {
@@ -3082,7 +3082,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Meistelman 1987, 20µg/kg, adult male individual - lin",
           "OriginText": "Alfentanil\nMeistelman 1987, 20µg/kg, adult male individual\n2019-11-29 13:32"
         }
       ]
@@ -3205,7 +3205,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Phimmasone 2001, Alfentanil iv 0.015 mg/kg - log",
           "OriginText": "Alfentanil\nPhimmasone 2001, Alfentanil iv 0.015 mg/kg\n2019-11-29 13:33"
         },
         {
@@ -3255,7 +3255,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Phimmasone 2001, Alfentanil iv 0.015 mg/kg - lin",
           "OriginText": "Alfentanil\nPhimmasone 2001, Alfentanil iv 0.015 mg/kg\n2019-11-29 13:33"
         }
       ]
@@ -3414,7 +3414,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 2011b, Alfentanil IV 1 mg - log",
           "OriginText": "Alfentanil\nKharasch 2011b, Alfentanil IV 1 mg\n2019-11-29 13:33"
         },
         {
@@ -3497,7 +3497,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 2011b, Alfentanil IV 1 mg - lin",
           "OriginText": "Alfentanil\nKharasch 2011b, Alfentanil IV 1 mg\n2019-11-29 13:33"
         }
       ]
@@ -3870,7 +3870,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 2011b, Alfentanil PO 4 mg - log",
           "OriginText": "Alfentanil\nKharasch 2011b, Alfentanil PO 4 mg\n2019-11-29 13:28"
         },
         {
@@ -3931,7 +3931,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 2011b, Alfentanil PO 4 mg - lin",
           "OriginText": "Alfentanil\nKharasch 2011b, Alfentanil PO 4 mg\n2019-11-29 13:28"
         }
       ]
@@ -4056,7 +4056,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 2012, Alfentanil iv 0.02 mg/kg - log",
           "OriginText": "Alfentanil\nKharasch 2012, Alfentanil iv 0.02 mg/kg\n2019-11-29 13:44"
         },
         {
@@ -4106,7 +4106,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 2012, Alfentanil iv 0.02 mg/kg - lin",
           "OriginText": "Alfentanil\nKharasch 2012, Alfentanil iv 0.02 mg/kg\n2019-11-29 13:44"
         }
       ]
@@ -4246,7 +4246,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis",
+          "Name": "Kharasch 2012, Alfentanil po 0.043 mg/kg - log",
           "OriginText": "Alfentanil\nKharasch 2012, Alfentanil po 0.043 mg/kg\n2019-11-29 13:43"
         },
         {
@@ -4285,7 +4285,7 @@
               }
             }
           ],
-          "Name": "Time Profile Analysis 1",
+          "Name": "Kharasch 2012, Alfentanil po 0.043 mg/kg - lin",
           "OriginText": "Alfentanil\nKharasch 2012, Alfentanil po 0.043 mg/kg\n2019-11-29 13:43"
         }
       ]

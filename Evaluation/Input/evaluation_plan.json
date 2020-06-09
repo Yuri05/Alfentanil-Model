@@ -123,57 +123,62 @@
             {
                 "Project": "Alfentanil",
                 "Simulation": "Ferrier 1985, Alfentanil iv 0.05 mg/kg",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 1997, Alfentanil iv 0.02 mg/kg",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2004, Alfentanil iv 0.015 mg/kg",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2004, Alfentanil po 0.06 mg/kg",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011, Alfentanil iv 0.015 mg/kg",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011, Alfentanil po 0.075 mg/kg",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011b, Alfentanil IV 1 mg",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011b, Alfentanil PO 4 mg",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2012, Alfentanil iv 0.02 mg/kg",
-                "SectionId": 33
+                "SectionId": 332
+            },
+            {
+                "Project": "Alfentanil",
+                "Simulation": "Kharasch 2012, Alfentanil po 0.043 mg/kg",
+                "SectionId": 332
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Meistelman 1987, 20µg/kg, adult male individual",
-                "SectionId": 33
+                "SectionId": 331
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Phimmasone 2001, Alfentanil iv 0.015 mg/kg",
-                "SectionId": 33
+                "SectionId": 331
             }
         ],
         "GOFMergedPlots": [
@@ -293,6 +298,13 @@
                                 "Simulation": "Kharasch 2011b, Alfentanil PO 4 mg",
                                 "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Kharasch 2011b - Alfentanil PO Control sequential - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Alfentanil",
+                                "Simulation": "Kharasch 2012, Alfentanil po 0.043 mg/kg",
+                                "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Kharasch2012_Alfentanil_alone_po",
                                 "Color": "#FF0000"
                             },
                             {
