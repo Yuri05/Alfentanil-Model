@@ -1,4 +1,4 @@
-### 2.2.1	In vitro / physicochemical Data
+### 2.2.1 In vitro / physicochemical Data
 
 A literature search was performed to collect available information on physicochemical properties of alfentanil. The obtained information from literature is summarized in the table below. 
 
@@ -14,11 +14,11 @@ A literature search was performed to collect available information on physicoche
 |                 |          | 12.0       | [Almond 2016](#5-References)      | Fraction unbound in plasma                                |
 
 
-### 2.2.2	Clinical Data
+### 2.2.2 Clinical Data
 
 A literature search was performed to collect available clinical data on alfentanil in healthy adults.
 
-#### 2.2.2.1	Model Building
+#### 2.2.2.1 Model Building
 
 The following studies were used for model building:
 
@@ -28,7 +28,7 @@ The following studies were used for model building:
 | [Kharasch 1997](#5-References)   | Healthy subjects with a single iv dose of 0.02 mg/kg         |
 | [Kharasch 2004](#5-References)   | Healthy subjects with a single iv dose of 0.015 mg/kg, healthy subjects with a single oral dose of 0.06 mg/kg |
 | [Kharasch 2011](#5-References)   | Healthy subjects with a single iv dose of 0.015 mg/kg, healthy subjects with a single oral dose of 0.075 mg/kg |
-| [Kharasch 2011b](#5-References)  | Healthy subjects with an iv dose of 1 mg, healthy subjects with an oral dose of 1 mg |
+| [Kharasch 2011b](#5-References)  | Healthy subjects with an iv dose of 1 mg, healthy subjects with an oral dose of 1 mg. Publication compares sequential and simultaneous dosing of oral deuterated and intravenous unlabeled alfentanil |
 | [Kharasch 2012](#5-References)   | Healthy subjects with a single iv dose of 0.02 mg/kg         |
 | [Meistelman 1987](#5-References) | Healthy subjects with a single iv dose of 0.02 mg/kg         |
 | [Phimmasone 2001](#5-References) | Healthy subjects with a single iv dose of 0.015 mg/kg        |
