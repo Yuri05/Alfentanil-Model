@@ -1,12 +1,12 @@
-# Building and Evaluation of a PBPK Model for Alfentanil in Adults
+# Building and Evaluation of a PBPK Model for alfentanil in Adults
 
 
 
-| Version                                         | x.x-OSPy.y                                                   |
+| Version                                         | 2.0-OSP9.0                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Alfentanil-Model/releases/tag/vx.x |
-| OSP Version                                     | y.y                                                          |
-| Qualification Framework Version                 | z.z                                                          |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Alfentanil-Model/releases/tag/v2.0 |
+| OSP Version                                     | 9.0                                                          |
+| Qualification Framework Version                 | 2.2                                                          |
 
 
 
