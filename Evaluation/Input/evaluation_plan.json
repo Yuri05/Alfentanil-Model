@@ -123,68 +123,68 @@
             {
                 "Project": "Alfentanil",
                 "Simulation": "Ferrier 1985, Alfentanil iv 0.05 mg/kg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 1997, Alfentanil iv 0.02 mg/kg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2004, Alfentanil iv 0.015 mg/kg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2004, Alfentanil po 0.06 mg/kg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011, Alfentanil iv 0.015 mg/kg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011, Alfentanil po 0.075 mg/kg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011b, Alfentanil IV 1 mg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011b, Alfentanil PO 4 mg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2012, Alfentanil iv 0.02 mg/kg",
-                "SectionReference": "ct_profiles_model_verification"
+                "SectionReference": "ct-profiles-model-verification"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2012, Alfentanil po 0.043 mg/kg",
-                "SectionReference": "ct_profiles_model_verification"
+                "SectionReference": "ct-profiles-model-verification"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Meistelman 1987, 20µg/kg, adult male individual",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Phimmasone 2001, Alfentanil iv 0.015 mg/kg",
-                "SectionReference": "ct_profiles_model_building"
+                "SectionReference": "ct-profiles-model-building"
             }
         ],
         "GOFMergedPlots": [
             {
-                "Title": "Goodness of fit plor for concentration in plasma",
-                "SectionReference": "diagnostics_plots",
+                "Title": "Goodness of fit plot for concentration in plasma",
+                "SectionReference": "diagnostics-plots",
                 "Artifacts": [
                     "Plot",
                     "GMFE",
@@ -311,13 +311,13 @@
             "Project": "Alfentanil",
             "Name": "Alfentanil",
             "Type": "Compound",
-            "SectionReference": "final_input_parameters"
+            "SectionReference": "final-input-parameters"
         },
         {
             "Project": "Alfentanil",
             "Name": "Solution",
             "Type": "Formulation",
-            "SectionReference": "final_input_parameters"
+            "SectionReference": "final-input-parameters"
         }
     ],
     "Sections": [
@@ -331,7 +331,7 @@
             "Title": "Methods",
             "Sections": [
                 {
-                    "Reference": "modeling_strategy",
+                    "Reference": "modeling-strategy",
                     "Title": "Modeling Strategy",
                     "Content": "Content/Section2.1_Modeling_Strategy.md"
                 },
@@ -341,38 +341,38 @@
                     "Content": "Content/Section2.2_Data.md"
                 },
                 {
-                    "Reference": "model_parameters_and_assumptions",
+                    "Reference": "model-parameters-and-assumptions",
                     "Title": "Model Parameters and Assumptions",
                     "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
                 }
             ]
         },
         {
-            "Reference": "results_and_discussion",
+            "Reference": "results-and-discussion",
             "Title": "Results and Discussion",
             "Content": "Content/Section3_Results_and_Discussion.md",
             "Sections": [
                 {
-                    "Reference": "final_input_parameters",
+                    "Reference": "final-input-parameters",
                     "Title": "Final input parameters",
                     "Content": "Content/Input_table.md"
                 },
                 {
-                    "Reference": "diagnostics_plots",
+                    "Reference": "diagnostics-plots",
                     "Title": "Diagnostics Plots",
                     "Content": "Content/GOF_diagnostics.md"
                 },
                 {
-                    "Reference": "ct_profiles",
+                    "Reference": "ct-profiles",
                     "Title": "Concentration-Time Profiles",
                     "Content": "Content/Concentration_time_profiles.md",
                     "Sections": [
                         {
-                            "Reference": "ct_profiles_model_building",
+                            "Reference": "ct-profiles-model-building",
                             "Title": "Model Building"
                         },
                         {
-                            "Reference": "ct_profiles_model_verification",
+                            "Reference": "ct-profiles-model-verification",
                             "Title": "Model Verification"
                         }
                     ]
@@ -385,7 +385,7 @@
             "Content": "Content/Section4_Conclusion.md"
         },
         {
-            "Reference": "main_references",
+            "Reference": "main-references",
             "Title": "References",
             "Content": "Content/References.md"
         }
