@@ -1,5 +1,5 @@
 {
-    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.1/OSP_Qualification_Plan_Schema.json",
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v3.0/OSP_Qualification_Plan_Schema.json",
     "Projects": [
         {
             "Id": "Alfentanil",
@@ -123,74 +123,77 @@
             {
                 "Project": "Alfentanil",
                 "Simulation": "Ferrier 1985, Alfentanil iv 0.05 mg/kg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 1997, Alfentanil iv 0.02 mg/kg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2004, Alfentanil iv 0.015 mg/kg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2004, Alfentanil po 0.06 mg/kg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011, Alfentanil iv 0.015 mg/kg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011, Alfentanil po 0.075 mg/kg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011b, Alfentanil IV 1 mg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2011b, Alfentanil PO 4 mg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2012, Alfentanil iv 0.02 mg/kg",
-                "SectionId": 332
+                "SectionReference": "ct_profiles_model_verification"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Kharasch 2012, Alfentanil po 0.043 mg/kg",
-                "SectionId": 332
+                "SectionReference": "ct_profiles_model_verification"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Meistelman 1987, 20µg/kg, adult male individual",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             },
             {
                 "Project": "Alfentanil",
                 "Simulation": "Phimmasone 2001, Alfentanil iv 0.015 mg/kg",
-                "SectionId": 331
+                "SectionReference": "ct_profiles_model_building"
             }
         ],
         "GOFMergedPlots": [
             {
                 "Title": "Goodness of fit plor for concentration in plasma",
-                "SectionId": 32,
+                "SectionReference": "diagnostics_plots",
                 "Artifacts": [
                     "Plot",
                     "GMFE",
                     "Measure"
                 ],
-                "PlotType": "predictedVsObserved|residualsOverTime",
+                "PlotTypes": [
+                    "predictedVsObserved",
+                    "residualsOverTime"
+                ],
                 "Groups": [
                     {
                         "Caption": "Intravenous administration",
@@ -228,28 +231,12 @@
                                 "Project": "Alfentanil",
                                 "Simulation": "Kharasch 2011b, Alfentanil IV 1 mg",
                                 "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kharasch 2011b - Alfentanil IV Control sequential - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Alfentanil",
-                                "Simulation": "Kharasch 2011b, Alfentanil IV 1 mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kharasch 2011b - Alfentanil IV Control simultaneous - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Alfentanil",
-                                "Simulation": "Kharasch 2011b, Alfentanil IV 1 mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kharasch 2011b - Alfentanil IV Grapefruit coadmin sequential - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Alfentanil",
-                                "Simulation": "Kharasch 2011b, Alfentanil IV 1 mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kharasch 2011b - Alfentanil IV Grapefruit coadmin simultaneous - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
+                                "ObservedData": [
+                                    "Kharasch 2011b - Alfentanil IV Control sequential - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
+                                    "Kharasch 2011b - Alfentanil IV Control simultaneous - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
+                                    "Kharasch 2011b - Alfentanil IV Grapefruit coadmin sequential - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)",
+                                    "Kharasch 2011b - Alfentanil IV Grapefruit coadmin simultaneous - Alfentanil - IV - 1 mg - Plasma - agg. (n=6)"
+                                ],
                                 "Color": "#FF0000"
                             },
                             {
@@ -297,7 +284,10 @@
                                 "Project": "Alfentanil",
                                 "Simulation": "Kharasch 2011b, Alfentanil PO 4 mg",
                                 "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kharasch 2011b - Alfentanil PO Control sequential - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)",
+                                "ObservedData": [
+                                    "Kharasch 2011b - Alfentanil PO Control sequential - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)",
+                                    "Kharasch 2011b - Alfentanil PO Control simultaneous - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)"
+                                ],
                                 "Color": "#FF0000"
                             },
                             {
@@ -305,13 +295,6 @@
                                 "Simulation": "Kharasch 2012, Alfentanil po 0.043 mg/kg",
                                 "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
                                 "ObservedData": "Kharasch2012_Alfentanil_alone_po",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Alfentanil",
-                                "Simulation": "Kharasch 2011b, Alfentanil PO 4 mg",
-                                "Output": "Organism|PeripheralVenousBlood|Alfentanil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Kharasch 2011b - Alfentanil PO Control simultaneous - Alfentanil - PO - 4 mg - Plasma - agg. (n=6)",
                                 "Color": "#FF0000"
                             }
                         ]
@@ -328,85 +311,82 @@
             "Project": "Alfentanil",
             "Name": "Alfentanil",
             "Type": "Compound",
-            "SectionId": 31
+            "SectionReference": "final_input_parameters"
         },
         {
             "Project": "Alfentanil",
             "Name": "Solution",
             "Type": "Formulation",
-            "SectionId": 31
+            "SectionReference": "final_input_parameters"
         }
     ],
     "Sections": [
         {
-            "Id": 1,
-            "Title": "1 Introduction",
+            "Reference": "introduction",
+            "Title": "Introduction",
             "Content": "Content/Section1_Introduction.md"
         },
         {
-            "Id": 2,
-            "Title": "2 Methods",
-            "Content": "Content/Section2_Methods.md",
+            "Reference": "methods",
+            "Title": "Methods",
             "Sections": [
                 {
-                    "Id": 21,
-                    "Title": "2.1 Modeling Strategy",
+                    "Reference": "modeling_strategy",
+                    "Title": "Modeling Strategy",
                     "Content": "Content/Section2.1_Modeling_Strategy.md"
                 },
                 {
-                    "Id": 22,
-                    "Title": "2.2 Data",
+                    "Reference": "data",
+                    "Title": "Data",
                     "Content": "Content/Section2.2_Data.md"
                 },
                 {
-                    "Id": 23,
-                    "Title": "2.3 Model Parameters and Assumptions",
+                    "Reference": "model_parameters_and_assumptions",
+                    "Title": "Model Parameters and Assumptions",
                     "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
                 }
             ]
         },
         {
-            "Id": 3,
-            "Title": "3 Results and Discussion",
+            "Reference": "results_and_discussion",
+            "Title": "Results and Discussion",
             "Content": "Content/Section3_Results_and_Discussion.md",
             "Sections": [
                 {
-                    "Id": 31,
-                    "Title": "3.1 Final input parameters",
+                    "Reference": "final_input_parameters",
+                    "Title": "Final input parameters",
                     "Content": "Content/Input_table.md"
                 },
                 {
-                    "Id": 32,
-                    "Title": "3.2 Diagnostics Plots",
+                    "Reference": "diagnostics_plots",
+                    "Title": "Diagnostics Plots",
                     "Content": "Content/GOF_diagnostics.md"
                 },
                 {
-                    "Id": 33,
-                    "Title": "3.3 Concentration-Time Profiles",
+                    "Reference": "ct_profiles",
+                    "Title": "Concentration-Time Profiles",
                     "Content": "Content/Concentration_time_profiles.md",
                     "Sections": [
                         {
-                            "Id": 331,
-                            "Title": "3.3.1 Model Building",
-                            "Content": "Content/Concentration_time_profiles_building.md"
+                            "Reference": "ct_profiles_model_building",
+                            "Title": "Model Building"
                         },
                         {
-                            "Id": 332,
-                            "Title": "3.3.2 Model Verification",
-                            "Content": "Content/Concentration_time_profiles_verification.md"
+                            "Reference": "ct_profiles_model_verification",
+                            "Title": "Model Verification"
                         }
                     ]
                 }
             ]
         },
         {
-            "Id": 4,
-            "Title": "4 Conclusion",
+            "Reference": "conclusion",
+            "Title": "Conclusion",
             "Content": "Content/Section4_Conclusion.md"
         },
         {
-            "Id": 5,
-            "Title": "5 References",
+            "Reference": "main_references",
+            "Title": "References",
             "Content": "Content/References.md"
         }
     ],

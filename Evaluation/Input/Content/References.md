@@ -2,7 +2,7 @@
 
 **Baneyx 2014** Baneyx, G., Parrott, N., Meille, C., Iliadis, A. & Lavé, T. Physiologically based pharmacokinetic modeling of CYP3A4 induction by rifampicin in human: influence of time between substrate and inducer administration. Eur. J. Pharm. Sci. 56, 1–15 (2014).
 
-**DrugBank DB00802** https://www.drugbank.ca/drugs/DB00802, accessed 05-15-2020.
+**DrugBank DB00802** [https://www.drugbank.ca/drugs/DB00802](https://www.drugbank.ca/drugs/DB00802), accessed 05-15-2020.
 
 **Edginton 2008** Edginton, A.N. & Willmann, S. Physiology-based simulations of a pathological condition: prediction of pharmacokinetics in patients with liver cirrhosis. Clin. Pharmacokinet. 47, 743–52 (2008).
 
@@ -36,7 +36,7 @@
 
 **Phimmasone 2001** Phimmasone, S. & Kharasch, E.D. A pilot evaluation of alfentanil-induced miosis as a noninvasive probe for hepatic cytochrome P450 3A4 (CYP3A4) activity in humans. Clin. Pharmacol. Ther. 70, 505–17 (2001).
 
-**PK-Sim Ontogeny Database Version 7.3** (https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)	
+**PK-Sim Ontogeny Database Version 7.3** [(https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)](https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)
 
 **Wandel 2002** Wandel, C., Kim, R., Wood, M. & Wood, A. Interaction of morphine, fentanyl, sufentanil, alfentanil, and loperamide with the efflux drug transporter P-glycoprotein. Anesthesiology 96, 913–920 (2002).
 
