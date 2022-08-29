@@ -1,4 +1,4 @@
-### 2.2.1 In vitro / physicochemical Data
+### In vitro / physicochemical Data
 
 A literature search was performed to collect available information on physicochemical properties of alfentanil. The obtained information from literature is summarized in the table below. 
 
@@ -14,11 +14,11 @@ A literature search was performed to collect available information on physicoche
 |                 |          | 12.0       | [Almond 2016](#main_references)      | Fraction unbound in plasma                                |
 
 
-### 2.2.2 Clinical Data
+### Clinical Data
 
 A literature search was performed to collect available clinical data on alfentanil in healthy adults.
 
-#### 2.2.2.1 Model Building
+#### Model Building
 
 The following studies were used for model building:
 
