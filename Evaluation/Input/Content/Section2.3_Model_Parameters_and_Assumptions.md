@@ -8,7 +8,7 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 ### Metabolism and Elimination
 
-Alfentanil is metabolized solely by CYP3A4. The tissue-specific CYP3A4 expression implemented in the model is based on high-sensitive real-time RT-PCR ([Nishimura 2013](#main_references)). 
+Alfentanil is metabolized solely by CYP3A4. The tissue-specific CYP3A4 expression implemented in the model is based on high-sensitive real-time RT-PCR ([Nishimura 2013](#main-references)). 
 
 The first model simulations showed that gut wall metabolization was too low in the PBPK model. In order to increase gut wall metabolization, the “mucosa permeability on basolateral side” (jointly the model parameters in the mucosa: ``P (interstitial->intracellular)`` and ``P (intracellular->interstitial)``) was estimated. This may lead to higher gut wall concentrations and, in turn, to a higher gut wall elimination.
 
